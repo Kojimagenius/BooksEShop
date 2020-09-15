@@ -7,38 +7,6 @@
   </div>
 </template>
 
-<!--<script>-->
-<!--import TodoList from "./components/TodoList";-->
-<!--import AddTodoComponent from "@/components/AddTodoComponent";-->
-
-
-<!--export default {-->
-<!--  name: 'App',-->
-<!--  data(){-->
-<!--    return{-->
-
-<!--      todos: [-->
-<!--        {id: 1, title: "hleb", completed: false},-->
-<!--        {id: 2, title: "salo", completed:false},-->
-<!--        {id: 3, title: "maslo", completed: false}-->
-<!--      ]-->
-<!--    }-->
-<!--  },-->
-<!--  components: {-->
-<!--    TodoList,-->
-<!--    AddTodoComponent-->
-<!--  },-->
-<!--  methods:{-->
-<!--    RemoveItem(id){-->
-<!--      this.todos = this.todos.filter(t => t.id !== id)-->
-<!--    },-->
-<!--    addTodo(todo){-->
-<!--      this.todos.push(todo)-->
-<!--    }-->
-<!--  }-->
-<!--}-->
-<!--</script>-->
-
 <style>
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;

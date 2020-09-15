@@ -101,7 +101,7 @@ __webpack_require__.r(__webpack_exports__);
         pages: 100
       }, {
         id: 1,
-        title: "Geroy",
+        title: "geroy",
         author: 'Lermontov',
         imgsrc: 'https://knigochei.net/uploads/posts/2016-03/medium/1459082715_geroy-nashego-vremeni.jpg',
         pages: 50
